@@ -1,5 +1,5 @@
 My Personal OTL/HDA for Houdini : 
-// I will try to upload and share the tools I use on my projects
+// I will try to upload and share more tools I use on my projects
 
 - m_import images : import images in Houdini with good ratio and materials, import sequence or folder of images
 - m_anim objecs : apply animations translation, rotation, scales on pack objects
